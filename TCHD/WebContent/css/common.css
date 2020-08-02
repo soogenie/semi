@@ -44,12 +44,31 @@
  
    }
    #title{
-
       color: rgb(41, 128, 185);
       font-size: 45px;
       font-weight: bold;
       position: absolute;
    }
+   #title a{
+ 	  text-decoration: none;    /* 밑줄 삭제 */
+       color: rgb(41, 128, 185);
+   }
+    #title a:link{
+ 	  text-decoration: none;    /* 밑줄 삭제 */
+ 	   color: rgb(41, 128, 185);
+   }
+    #title a:visit{
+ 	  text-decoration: none;    /* 밑줄 삭제 */
+      color: rgb(41, 128, 185);
+   }
+    #title a:hover{
+ 	  text-decoration: none;    /* 밑줄 삭제 */
+ 	  color: rgb(41, 128, 185);
+   }
+   
+   
+   
+   
    #navi{
       width: 100%; 
       text-align: center;
