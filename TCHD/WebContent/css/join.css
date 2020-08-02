@@ -1,0 +1,40 @@
+@charset "UTF-8";
+#joinDiv{
+	text-align: center;
+}
+#joinTitle{
+	color: #6f6f6f;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	padding: 50px 10px  20px 10px;;
+}
+#joinCheck{
+	text-align: left;
+	font-size: 20px;
+	margin: 15px 0px 15px 0px;
+}
+#joinCheck input{
+	margin: 0px 10px;
+}
+#joinForm{
+	background-color: rgb(224, 224, 224);
+	padding: 50px 100px 30px 100px;
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+#joinForm div{
+	margin: 0px 0px 25px 0px;
+	
+}
+#joinButton{
+	text-align: center;
+}
+#joinButton button{
+	width: 100px;
+	height: 40px;
+	background-color: rgb(52, 152, 219);
+	color: rgb(255,255,255);
+	font-size: 16px;
+	border-style: none;
+}

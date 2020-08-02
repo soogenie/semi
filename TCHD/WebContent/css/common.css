@@ -1,10 +1,13 @@
 @charset "UTF-8";
+
    .clear{
       clear: both;
    }
    *{      /* 전체 태그 */
       margin:0; 
       padding:0; 
+      font-family:'Malgun Gothic';
+     
    }
    #headDiv{
       width:100%;
@@ -41,6 +44,7 @@
  
    }
    #title{
+
       color: rgb(41, 128, 185);
       font-size: 45px;
       font-weight: bold;
